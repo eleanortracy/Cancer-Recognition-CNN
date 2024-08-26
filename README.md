@@ -1,4 +1,4 @@
-# CNN for Breast Cancer Detection
+# Convolutional Neural Network for Breast Cancer Detection
 This project implements a Convolutional Neural Network (CNN) to classify breast histopathology images as cancerous or non-cancerous. The dataset used is highly relevant for medical imaging and cancer research, providing a crucial resource for developing automated cancer detection algorithms.
 
 Overview
